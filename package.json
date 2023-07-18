@@ -1,0 +1,17 @@
+{
+    "name": "welcome-api",
+    "version": "1.0.0",
+    "description": "An API to generate welcome and goodbye images.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "GURU",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.4.0",
+        "canvas": "^2.11.2",
+        "express": "^4.17.1",
+        "knights-canvas": "^1.1.0"
+    }
+}
